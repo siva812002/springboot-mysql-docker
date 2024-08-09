@@ -1,2 +1,3 @@
 # springboot-mysql-docker
-dockerized
+I built a Dockerized Java Spring Boot CRUD application for learning purposes
+
